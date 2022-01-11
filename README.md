@@ -5,7 +5,7 @@ TD files are my final years projects and it is a tower defense game, a very simp
 
 The four mp4 files display an overview of the game.
 
-
+VRGame files are my course project, which is a fps game. There is a pdf inside decribe details of the game
 
 In the first mp4 file, "敌人移动", if the enemy does not detect the character, it will roam randomly in the scene. Once the character is in certain range of the enemy, it will run towards the character and attack the character when it reaches certain distances.
 
