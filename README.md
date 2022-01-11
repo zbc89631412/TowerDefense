@@ -1,4 +1,12 @@
 # TowerDefense
+There are two unity projects in this repository
+
+TD files are my final years projects and it is a tower defense game, a very simple version of 'League of Legendary', which realized some basic functions 
+
+The four mp4 files display an overview of the game.
+
+
+
 In the first mp4 file, "敌人移动", if the enemy does not detect the character, it will roam randomly in the scene. Once the character is in certain range of the enemy, it will run towards the character and attack the character when it reaches certain distances.
 
 The second mp4 file, "相机跟随", shows the movement of the character and the following of the camera to the character. The player can use direction keys to change the camera angle of view and mouse to zoom in and zoom out. The character will move to the destination when mouse clicks somewhere.
