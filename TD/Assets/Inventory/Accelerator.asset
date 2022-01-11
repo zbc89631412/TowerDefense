@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82660e1b267c08d459b5fcb5574996e8, type: 3}
+  m_Name: Accelerator
+  m_EditorClassIdentifier: 
+  name: Accelerator
+  icon: {fileID: 21300000, guid: a45b930f459e1694ea317ad1d5b29e10, type: 3}
+  isDefultItem: 0
+  speedModifier: 10

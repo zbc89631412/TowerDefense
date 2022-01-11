@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SwordWoman
+  m_Controller: {fileID: 9100000, guid: 1f8e49247267375419345bfe621d8a21, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400002, guid: 16157c842b115b041a0bfd6cd25ca76b, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 0506e0fa3c9931d45a6a4162fb5ece31, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 016033c796f77d044b632dd61bdc614f, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 6ec12fdec286be549b230665708b6b3b, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 5a6f1b274b399624b9680e7ca0ddccc2, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: a135cab8109e7cf4fadd1fbb592d82cf, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 2c649dda9dee2d040b32d0ec04d46dd7, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 691f54bb86e2fc4469d991e434497145, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: a70c0b12c12a6ec4e948915f556223ef, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: e7151d061df68ef418959acc4e9fb591, type: 3}
